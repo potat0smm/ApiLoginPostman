@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ApiLoginPostman</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_have_an_account_onclick_to_login">Already have an Account?\nClick to Login</string>
+    <string name="school">school</string>
+</resources>
